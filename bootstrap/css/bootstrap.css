@@ -229,7 +229,7 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #555555;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 
 a {
@@ -6126,7 +6126,7 @@ a.badge:focus {
   font-weight: 200;
   line-height: 30px;
   color: inherit;
-  background-color: #eeeeee;
+  background-color: #635c5c;
   -webkit-border-radius: 6px;
      -moz-border-radius: 6px;
           border-radius: 6px;
